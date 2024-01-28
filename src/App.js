@@ -4,7 +4,7 @@ import { img1, img2 } from "./images";
 
 function App() {
   const allData = {
-    fontFamily: "'Inter', sans-serif",
+    fontFamily: "'Open Sans', sans-serif",
 
     lineHeight: "3px",
 
